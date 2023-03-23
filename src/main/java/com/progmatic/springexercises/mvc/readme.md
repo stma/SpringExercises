@@ -33,3 +33,5 @@ alakítsd ki ahol a `/user/{name}` útvonalra érkező `GET` kérésekte
 egy egyszerű nyers szöveggel térsz vissza a HTTP válaszban. `Hello Aliz!`
 Itt a név mindig az utvonalban szereplő `name` változóval megegyezző legyen.
 
+1. Hozz létre formokat az egyes entitások felviteléhez
+2. Hozz létre a formokhoz kapcsolódó validálásokat, hogy ha azok nem teljesülnek akkor megjelenjen a formban a hiba
