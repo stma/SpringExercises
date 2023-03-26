@@ -1,13 +1,13 @@
 package com.progmatic.springexercises.jpa;
 
-import jakarta.persistence.*;
+//import jakarta.persistence.*;
 
-@Entity
-@Table(name = "spring_dogo")
+//@Entity
+//@Table(name = "spring_dogo")
 public class Dogo {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "id", nullable = false)
+//    @Id
+//    @GeneratedValue(strategy = GenerationType.IDENTITY)
+//    @Column(name = "id", nullable = false)
     private Long id;
 
     public Long getId() {
